@@ -3,7 +3,7 @@
 ## Description
 In this project, we used the Rust Qdrant client to upload card entries and find the most similar card based on vector values provided by the user. The card entries were originally added to the vector database with a payload, the card details itself, and the corresponding vector, which is a dimension of 10 for this mini project. The user runs the commands and inputs the vector values from the terminal to obtain the most similar cards (via a distance search with the vectors corresponding to the cards).
 
-[Click Here for this Project's Overview Demo Video!!!]()
+[Click Here for this Project's Overview Demo Video!!!](https://www.youtube.com/watch?v=qH0y7nni5TI)
 
 ## Why opt for qdrant in rust?
 
