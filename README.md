@@ -121,7 +121,7 @@ Running the client:
 
 ![alt text](images/image.png)
 
-Running the project and seeing for the prompt for user input.
+Running the project and seeing the prompt for user input.
 
 ![alt text](images/image-1.png)
 
